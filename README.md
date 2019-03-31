@@ -1,7 +1,5 @@
 # Grupa4-ASD
 
-## Tema: Bolnica
-
 
 ### Članovi tima:
 
@@ -14,7 +12,7 @@
 
 ### Opis teme:
 
-  •	Vjerovatno ste mnogo puta naišli na neprilike uzrokovane slabom organizacijom sistema i osoblja u javnim ustanovama. To je posebno primjetno u bolnicama, gdje se stvaraju ogromne gužve, što, svakako, nije dobro, naročito za već bolesne ljude. Međutim, aplikacija „Hospitalis“ rješava i Vas i Vaše najbljiže tih neprilika. Omogućava Vam da birate termin i doktora kod kojeg želite obaviti pregled. Uz to, imate sve važne podatke i dokumente na jednom mjestu. Također, nakon obavljenog pregleda, možete dati Vašu ocjenu osoblju.
+  •	Vjerovatno ste mnogo puta naišli na neprilike uzrokovane slabom organizacijom sistema i osoblja u javnim ustanovama. To je posebno primjetno u bolnicama, gdje se stvaraju ogromne gužve, što, svakako, nije dobro, naročito za već bolesne ljude. Međutim, aplikacija „Hospitalis“ rješava i Vas i Vaše najbliže tih neprilika. Omogućava Vam da birate termin i doktora kod kojeg želite obaviti pregled. Uz to, imate sve važne podatke i dokumente na jednom mjestu. Također, nakon obavljenog pregleda, možete dati Vašu ocjenu osoblju.
   
   
 ### Procesi: 
