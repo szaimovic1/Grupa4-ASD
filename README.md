@@ -6,7 +6,9 @@
 ## Članovi tima:
 
   •	Hajradinović Ajša
+  
   •	Zaimović Sara
+  
   •	Bašalić Dženan
   
 
