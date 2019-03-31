@@ -3,7 +3,7 @@
 ## Tema: Bolnica
 
 
-## Članovi tima:
+### Članovi tima:
 
   •	Hajradinović Ajša
   
@@ -12,12 +12,12 @@
   •	Bašalić Dženan
   
 
-## Opis teme:
+### Opis teme:
 
   •	Vjerovatno ste mnogo puta naišli na neprilike uzrokovane slabom organizacijom sistema i osoblja u javnim ustanovama. To je posebno primjetno u bolnicama, gdje se stvaraju ogromne gužve, što, svakako, nije dobro, naročito za već bolesne ljude. Međutim, aplikacija „Hospitalis“ rješava i Vas i Vaše najbljiže tih neprilika. Omogućava Vam da birate termin i doktora kod kojeg želite obaviti pregled. Uz to, imate sve važne podatke i dokumente na jednom mjestu. Također, nakon obavljenog pregleda, možete dati Vašu ocjenu osoblju.
   
   
-## Procesi: 
+### Procesi: 
 
   •	Korisnik može potražiti željene informacije o strukturi osoblja. 
   
@@ -40,7 +40,7 @@
   •	Admin provjerava, odnosno odobrava ili odbacuje, sadržaje komentara.
   
   
-## Funkcionalnosti:
+### Funkcionalnosti:
   
   •	Mogućnost kreiranja i ažuriranja korisničkog računa;
   
@@ -59,7 +59,7 @@
   •	Mogućnost provjere naručenih pacijenata.
 
   
-## Akteri:
+### Akteri:
 
   •	Pacijent – osoba koja može potražiti informacije o ustanovi, kreirati nalog te zakazati pregled, ocjenjivati usluge i pregledati svu dokumentaciju vezanu za svoje preglede.
   
