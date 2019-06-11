@@ -1,0 +1,30 @@
+﻿@model HospitalisOOAD.Models.Izvjestaj
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Izvjestaj</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.rezultatPregleda)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.rezultatPregleda)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DokumentacijaId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DokumentacijaId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IzvjestajId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
