@@ -19,9 +19,10 @@ namespace HospitalisOOAD.Controllers
         }
 
         // GET: Izvjestajs
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(String search)
         {
-            return View(await _context.izvjestaji.ToListAsync());
+            var hospitalisContext = _context.izvjestaji.Include(i => i.Korisnik);/*.ime == search || search == null*/
+            return View(await hospitalisContext.Where(u => u.Korisnik.username == search || search == null).ToListAsync());
         }
 
         // GET: Izvjestajs/Details/5
@@ -33,7 +34,8 @@ namespace HospitalisOOAD.Controllers
             }
 
             var izvjestaj = await _context.izvjestaji
-                .FirstOrDefaultAsync(m => m.IzvjestajId == id);
+                .Include(i => i.Korisnik)
+                .FirstOrDefaultAsync(m => m.ID == id);
             if (izvjestaj == null)
             {
                 return NotFound();
@@ -45,6 +47,9 @@ namespace HospitalisOOAD.Controllers
         // GET: Izvjestajs/Create
         public IActionResult Create()
         {
+            List<Pacijent> lista = new List<Pacijent>();
+            lista = _context.pacijenti.ToList();
+            ViewBag.lista = lista;
             return View();
         }
 
@@ -53,7 +58,7 @@ namespace HospitalisOOAD.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IzvjestajId,rezultatPregleda,DokumentacijaId")] Izvjestaj izvjestaj)
+        public async Task<IActionResult> Create([Bind("rezultatPregleda,ID,datumIzdavanja,Odjel,KorisnikId")] Izvjestaj izvjestaj)
         {
             if (ModelState.IsValid)
             {
@@ -61,6 +66,7 @@ namespace HospitalisOOAD.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["KorisnikId"] = new SelectList(_context.pacijenti, "ID", "ID", izvjestaj.KorisnikId);
             return View(izvjestaj);
         }
 
@@ -77,6 +83,8 @@ namespace HospitalisOOAD.Controllers
             {
                 return NotFound();
             }
+            ViewData["KorisnikId"] = new SelectList(_context.pacijenti, "ID", "ID", izvjestaj.KorisnikId);
+
             return View(izvjestaj);
         }
 
@@ -85,9 +93,9 @@ namespace HospitalisOOAD.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("IzvjestajId,rezultatPregleda,DokumentacijaId")] Izvjestaj izvjestaj)
+        public async Task<IActionResult> Edit(int id, [Bind("rezultatPregleda,ID,datumIzdavanja,KorisnikId")] Izvjestaj izvjestaj)
         {
-            if (id != izvjestaj.IzvjestajId)
+            if (id != izvjestaj.ID)
             {
                 return NotFound();
             }
@@ -101,7 +109,7 @@ namespace HospitalisOOAD.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!IzvjestajExists(izvjestaj.IzvjestajId))
+                    if (!IzvjestajExists(izvjestaj.ID))
                     {
                         return NotFound();
                     }
@@ -112,6 +120,8 @@ namespace HospitalisOOAD.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["KorisnikId"] = new SelectList(_context.pacijenti, "ID", "ID", izvjestaj.KorisnikId);
+
             return View(izvjestaj);
         }
 
@@ -124,7 +134,9 @@ namespace HospitalisOOAD.Controllers
             }
 
             var izvjestaj = await _context.izvjestaji
-                .FirstOrDefaultAsync(m => m.IzvjestajId == id);
+                .Include(i => i.Korisnik)
+
+                .FirstOrDefaultAsync(m => m.ID == id);
             if (izvjestaj == null)
             {
                 return NotFound();
@@ -146,7 +158,7 @@ namespace HospitalisOOAD.Controllers
 
         private bool IzvjestajExists(int id)
         {
-            return _context.izvjestaji.Any(e => e.IzvjestajId == id);
+            return _context.izvjestaji.Any(e => e.ID == id);
         }
     }
 }

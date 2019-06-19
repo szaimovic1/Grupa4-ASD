@@ -3,11 +3,14 @@
 @{
     ViewData["Title"] = "Details";
 }
+@{
+    Layout = "_Layout2";
+}
 
-<h2>Details</h2>
+<h2 style="height: 30px;"></h2>
 
 <div>
-    <h4>Izvjestaj</h4>
+    <h4>Izvještaj</h4>
     <hr />
     <dl class="dl-horizontal">
         <dt>
@@ -17,14 +20,19 @@
             @Html.DisplayFor(model => model.rezultatPregleda)
         </dd>
         <dt>
-            @Html.DisplayNameFor(model => model.DokumentacijaId)
+            @Html.DisplayNameFor(model => model.datumIzdavanja)
         </dt>
         <dd>
-            @Html.DisplayFor(model => model.DokumentacijaId)
+            @Html.DisplayFor(model => model.datumIzdavanja)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Korisnik)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Korisnik.ID)                  <!--diskriminator-->
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model.IzvjestajId">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Povratak u listu</a>
 </div>

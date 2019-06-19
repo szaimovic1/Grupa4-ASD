@@ -2,15 +2,19 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace HospitalisOOAD.Models
 {
-    public class Uputnica //: Dokumentacija
+    public class Uputnica : Dokumentacija
     {
-        public int UputnicaId { get; set; }
+        [Required]
+        [DisplayName("Svrha uputnice")]
         public String svrha { get; set; }
+        [Required]
+        [DisplayName("Uputnica za (doktor, bolnica)")]
         public String odrediste { get; set; }
-        public int DokumentacijaId { get; set; }
 
     }
 }

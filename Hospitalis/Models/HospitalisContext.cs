@@ -24,7 +24,6 @@ namespace HospitalisOOAD.Models
         public DbSet<Obavjestenje> obavjestenja { get; set; }
         public DbSet<Dokumentacija> dokumentacije { get; set; }
         public DbSet<Izvjestaj> izvjestaji { get; set; }
-        public DbSet<Odjel> odjeli { get; set; }
         public DbSet<Recept> recepti { get; set; }
         public DbSet<Uputnica> uputnice { get; set; }
         public DbSet<Korisnik> korisnici { get; set; }
@@ -41,7 +40,6 @@ namespace HospitalisOOAD.Models
             modelBuilder.Entity<Obavjestenje>().ToTable("Obavjestenje");
             modelBuilder.Entity<Dokumentacija>().ToTable("Dokumentacija");
             modelBuilder.Entity<Izvjestaj>().ToTable("Izvjestaj");
-            modelBuilder.Entity<Odjel>().ToTable("Odjel");
             modelBuilder.Entity<Recept>().ToTable("Recept");
             modelBuilder.Entity<Uputnica>().ToTable("Uputnica");
             modelBuilder.Entity<Korisnik>().ToTable("Korisnik");

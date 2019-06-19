@@ -4,9 +4,9 @@ body {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: 0.8em;
     background-attachment: scroll;
-    background-color: #90b7f1;
+    background-color: #abc;
     background-image: url("../images/background.gif");
-    background-position: top left;
+    background-position: center;
     background-repeat: repeat-x;
 }
 
@@ -15,6 +15,7 @@ body {
     margin-top: 57px;
     border-bottom: 2px solid #358;
     background-color: #fff;
+    background-position: center;
 }
 
 #masthead {
@@ -38,6 +39,7 @@ body {
     margin-right: auto;
     margin-left: auto;
     overflow: hidden;
+    background-position: center;
 }
 
 #content {

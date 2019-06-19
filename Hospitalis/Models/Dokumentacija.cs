@@ -2,16 +2,25 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace HospitalisOOAD.Models
 {
-    public class Dokumentacija
+    public abstract class Dokumentacija
     {
-        public int DokumentacijaId { get; set; }
+        public int ID { get; set; }
+        [Required]
+        [DisplayName("Datum izdavanja")]
         public DateTime datumIzdavanja { get; set; }
-        public int DoktorId { get; set; }
-        public int PacijentId { get; set; }
-        public int PregledId { get; set; }
-        public virtual Pregled Pregled { get; set; }
+        [Required]
+        [DisplayName("Pacijent")]
+        public int KorisnikId { get; set; }
+        public virtual Korisnik Korisnik { get; set; }
+        [Required]
+        [DisplayName("Odjel")]
+        public String Odjel { get; set; }
+
     }
 }
+

@@ -19,9 +19,15 @@ namespace HospitalisOOAD.Controllers
         }
 
         // GET: Anketas
-        public async Task<IActionResult> Index()
+        public ActionResult Index()
         {
-            return View(await _context.ankete.ToListAsync());
+            List<Anketa> ankete = _context.ankete.ToList();
+            double ocjena = 0;
+            foreach (Anketa a in ankete)
+                ocjena += a.konacnaOcjena;
+            ocjena /= ankete.Count();
+            ViewBag.Message = ocjena.ToString();
+            return View();
         }
 
         // GET: Anketas/Details/5
@@ -45,6 +51,9 @@ namespace HospitalisOOAD.Controllers
         // GET: Anketas/Create
         public IActionResult Create()
         {
+            List<Doktor> listaDoktora = new List<Doktor>();
+            listaDoktora = _context.doktori.ToList();
+            ViewBag.lista = listaDoktora;
             return View();
         }
 
@@ -53,13 +62,15 @@ namespace HospitalisOOAD.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,konacnaOcjena")] Anketa anketa)
+        public async Task<IActionResult> Create([Bind("ID,ocjena1,ocjena2,ocjena3,ocjena4,ocjena5,doktorID")] Anketa anketa)
         {
             if (ModelState.IsValid)
             {
+                var konacna = (anketa.ocjena1 + anketa.ocjena2 + anketa.ocjena3 + anketa.ocjena4 + anketa.ocjena5) / 5;
+                anketa.konacnaOcjena = konacna;
                 _context.Add(anketa);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return Redirect("~/IzborniMeni");
             }
             return View(anketa);
         }

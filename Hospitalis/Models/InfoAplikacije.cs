@@ -7,7 +7,7 @@ namespace HospitalisOOAD.Models
 {
     public class InfoAplikacije
     {
-        public int InfoAplikacijeId { get; set; }
+        public int ID { get; set; }
         public String tekst { get; set; }
     }
 }

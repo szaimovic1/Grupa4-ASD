@@ -1,73 +1,64 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+﻿@model IEnumerable<HospitalisOOAD.Models.Izvjestaj>
 
-<head>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <!-- #BeginEditable "doctitle" -->
-    <title></title>
-    <!-- #EndEditable -->
-    <link href="css/style2.css" rel="stylesheet" type="text/css" />
-</head>
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    Layout = "_Layout2";
+}
 
-<body>
+<h2 style="height: 30px;"></h2>
 
-    <!-- Begin Container -->
-    <div id="container">
-        <!-- Begin Masthead -->
-        <div id="masthead">
-            <h1>Organization</h1>
-            <h3>Organization Description</h3>
-        </div>
-        <!-- End Masthead -->
-        <!-- Begin Navigation -->
-        <div id="navigation">
-            <ul>
-                <li><a href="default.html">Home</a></li>
-                <li><a href="about/default.html">About</a></li>
-                <li><a href="news/default.html">News</a></li>
-                <li><a href="calendar/default.html">Calendar</a></li>
-                <li><a href="photo_gallery/default.html">Photo Gallery</a></li>
-                <li><a href="information_links/default.html">Links</a></li>
-                <li><a href="faq/default.html">FAQ</a></li>
-                <li><a href="contact/default.html">Contact</a></li>
-            </ul>
-        </div>
-        <!-- End Navigation -->
-        <!-- Begin Page Content -->
-        <div id="page_content">
-            <!-- Begin Content -->
-            <div id="content">
-                <!-- #BeginEditable "content" -->
-                <h2>Heading 2</h2>
-                <p>insert content here</p>
-                <!-- #EndEditable -->
-            </div>
-            <!-- End Content -->
-            <!-- Begin Sidebar -->
-            <div id="sidebar">
-                <!-- #BeginEditable "sidebar" -->
-                <h3>Heading 3</h3>
-                <p>insert content here</p>
-                <!-- #EndEditable -->
-            </div>
-            <!-- End Sidebar -->
-        </div>
-        <!-- End Page Content -->
-        <!-- Begin Footer -->
-        <div id="footer">
-            <p>
-                <a href="default.html">Home</a> | <a href="about/default.html">About</a>
-                | <a href="news/default.html">News</a> | <a href="calendar/default.html">
-                    Calendar
-                </a> | <a href="photo_gallery/default.html">Photo Gallery</a> |
-                <a href="information_links/default.html">Links</a> |
-                <a href="faq/default.html">FAQ</a> | <a href="contact/default.html">Contact</a>
-            </p>
-        </div>
-        <!-- End Footer -->
+<h4 align="center" style="background-color: #4ac5ce; font-size: xx-large;">IZVJEŠTAJI</h4>
+
+@using (Html.BeginForm("Index", "Izvjestajs", FormMethod.Get))
+{
+    <div>
+        <text>Korisničko ime pacijenta:</text>
+        @Html.TextBox("search")
+
+        <input type="submit" value="Pretraga" />
     </div>
-    <!-- End Container -->
 
-</body>
+}
 
-</html>
+<table class="table">
+    <thead style="width:50px;">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.rezultatPregleda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.datumIzdavanja)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Odjel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.rezultatPregleda)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.datumIzdavanja)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Odjel)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Uređivanje</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Detalji</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Brisanje</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a style="background-color: #000000;" href="~/Pacijents/Index">Lista pacijenata</a>
+</div>

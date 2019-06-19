@@ -33,7 +33,7 @@ namespace HospitalisOOAD.Controllers
             }
 
             var obavjestenje = await _context.obavjestenja
-                .FirstOrDefaultAsync(m => m.ObavjestenjeId == id);
+                .FirstOrDefaultAsync(m => m.ID == id);
             if (obavjestenje == null)
             {
                 return NotFound();
@@ -53,7 +53,7 @@ namespace HospitalisOOAD.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ObavjestenjeId,tekst,vrijemeObjave")] Obavjestenje obavjestenje)
+        public async Task<IActionResult> Create([Bind("ID,tekst,vrijemeObjave")] Obavjestenje obavjestenje)
         {
             if (ModelState.IsValid)
             {
@@ -85,9 +85,9 @@ namespace HospitalisOOAD.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ObavjestenjeId,tekst,vrijemeObjave")] Obavjestenje obavjestenje)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,tekst,vrijemeObjave")] Obavjestenje obavjestenje)
         {
-            if (id != obavjestenje.ObavjestenjeId)
+            if (id != obavjestenje.ID)
             {
                 return NotFound();
             }
@@ -101,7 +101,7 @@ namespace HospitalisOOAD.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ObavjestenjeExists(obavjestenje.ObavjestenjeId))
+                    if (!ObavjestenjeExists(obavjestenje.ID))
                     {
                         return NotFound();
                     }
@@ -124,7 +124,7 @@ namespace HospitalisOOAD.Controllers
             }
 
             var obavjestenje = await _context.obavjestenja
-                .FirstOrDefaultAsync(m => m.ObavjestenjeId == id);
+                .FirstOrDefaultAsync(m => m.ID == id);
             if (obavjestenje == null)
             {
                 return NotFound();
@@ -146,7 +146,7 @@ namespace HospitalisOOAD.Controllers
 
         private bool ObavjestenjeExists(int id)
         {
-            return _context.obavjestenja.Any(e => e.ObavjestenjeId == id);
+            return _context.obavjestenja.Any(e => e.ID == id);
         }
     }
 }

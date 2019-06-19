@@ -1,17 +1,40 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+﻿@model IEnumerable<HospitalisOOAD.Models.Obavjestenje>
 
-<head>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <title>Untitled 1</title>
-</head>
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    Layout = "_Layout3";
+}
 
-<body>
 
-    <form method="post">
-        <textarea name="TextArea1" style="width: 1247px; height: 681px"></textarea>
-    </form>
+<h2 style="height: 30px;"></h2>
 
-</body>
-
-</html>
+<h4 align="center" style="background-color: #4ac5ce; font-size: xx-large;">OBAVJEŠTENJA</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tekst)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.vrijemeObjave)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tekst)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.vrijemeObjave)
+                </td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+</table>

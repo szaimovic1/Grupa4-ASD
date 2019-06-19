@@ -7,6 +7,7 @@ namespace HospitalisOOAD.Models
 {
     public class InfoBolnice
     {
-        public int InfoBolniceId { get; set; }
+        public int ID { get; set; }
+        public string opis {get; set;}
     }
 }

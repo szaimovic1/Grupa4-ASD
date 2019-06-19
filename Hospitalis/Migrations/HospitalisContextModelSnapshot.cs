@@ -15,17 +15,17 @@ namespace HospitalisOOAD.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.1.11-servicing-32099")
+                .HasAnnotation("ProductVersion", "2.1.8-servicing-32085")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("HospitalisOOAD.Models.Admin", b =>
                 {
-                    b.Property<int>("AdminId")
+                    b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.HasKey("AdminId");
+                    b.HasKey("ID");
 
                     b.ToTable("Admin");
                 });
@@ -36,246 +36,231 @@ namespace HospitalisOOAD.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<int>("doktorID");
+
                     b.Property<double>("konacnaOcjena");
+
+                    b.Property<int>("ocjena1");
+
+                    b.Property<int>("ocjena2");
+
+                    b.Property<int>("ocjena3");
+
+                    b.Property<int>("ocjena4");
+
+                    b.Property<int>("ocjena5");
 
                     b.HasKey("ID");
 
                     b.ToTable("Anketa");
                 });
 
-            modelBuilder.Entity("HospitalisOOAD.Models.Doktor", b =>
+            modelBuilder.Entity("HospitalisOOAD.Models.Dokumentacija", b =>
                 {
-                    b.Property<int>("DoktorId")
+                    b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired();
 
                     b.Property<int>("KorisnikId");
 
-                    b.Property<int>("OdjelId");
-
-                    b.Property<string>("userId");
-
-                    b.HasKey("DoktorId");
-
-                    b.HasIndex("OdjelId");
-
-                    b.ToTable("Doktor");
-                });
-
-            modelBuilder.Entity("HospitalisOOAD.Models.Dokumentacija", b =>
-                {
-                    b.Property<int>("DokumentacijaId")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("DoktorId");
-
-                    b.Property<int>("PacijentId");
-
-                    b.Property<int>("PregledId");
-
                     b.Property<DateTime>("datumIzdavanja");
 
-                    b.HasKey("DokumentacijaId");
+                    b.HasKey("ID");
 
-                    b.HasIndex("PregledId");
+                    b.HasIndex("KorisnikId");
 
                     b.ToTable("Dokumentacija");
+
+                    b.HasDiscriminator<string>("Discriminator").HasValue("Dokumentacija");
                 });
 
             modelBuilder.Entity("HospitalisOOAD.Models.InfoAplikacije", b =>
                 {
-                    b.Property<int>("InfoAplikacijeId")
+                    b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("tekst");
 
-                    b.HasKey("InfoAplikacijeId");
+                    b.HasKey("ID");
 
                     b.ToTable("InfoAplikacije");
                 });
 
             modelBuilder.Entity("HospitalisOOAD.Models.InfoBolnice", b =>
                 {
-                    b.Property<int>("InfoBolniceId")
+                    b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.HasKey("InfoBolniceId");
+                    b.Property<string>("opis");
+
+                    b.HasKey("ID");
 
                     b.ToTable("InfoBolnice");
                 });
 
-            modelBuilder.Entity("HospitalisOOAD.Models.Izvjestaj", b =>
-                {
-                    b.Property<int>("IzvjestajId")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("DokumentacijaId");
-
-                    b.Property<string>("rezultatPregleda");
-
-                    b.HasKey("IzvjestajId");
-
-                    b.ToTable("Izvjestaj");
-                });
-
             modelBuilder.Entity("HospitalisOOAD.Models.Korisnik", b =>
                 {
-                    b.Property<int>("KorisnikId")
+                    b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("email");
+                    b.Property<string>("Discriminator")
+                        .IsRequired();
 
-                    b.Property<string>("ime");
+                    b.Property<string>("email")
+                        .IsRequired();
 
-                    b.Property<string>("kontaktTelefon");
+                    b.Property<string>("ime")
+                        .IsRequired();
 
-                    b.Property<string>("passwordHash");
+                    b.Property<string>("kontaktTelefon")
+                        .IsRequired();
 
-                    b.Property<string>("prezime");
+                    b.Property<string>("passwordHash")
+                        .IsRequired();
 
-                    b.Property<string>("spol");
+                    b.Property<string>("prezime")
+                        .IsRequired();
 
-                    b.Property<string>("username");
+                    b.Property<string>("spol")
+                        .IsRequired();
 
-                    b.HasKey("KorisnikId");
+                    b.Property<string>("username")
+                        .IsRequired();
+
+                    b.HasKey("ID");
 
                     b.ToTable("Korisnik");
+
+                    b.HasDiscriminator<string>("Discriminator").HasValue("Korisnik");
                 });
 
             modelBuilder.Entity("HospitalisOOAD.Models.Obavjestenje", b =>
                 {
-                    b.Property<int>("ObavjestenjeId")
+                    b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("tekst");
+                    b.Property<string>("tekst")
+                        .IsRequired();
 
                     b.Property<DateTime>("vrijemeObjave");
 
-                    b.HasKey("ObavjestenjeId");
+                    b.HasKey("ID");
 
                     b.ToTable("Obavjestenje");
                 });
 
-            modelBuilder.Entity("HospitalisOOAD.Models.Odjel", b =>
-                {
-                    b.Property<int>("OdjelId")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("InfoBolniceId");
-
-                    b.Property<string>("naziv");
-
-                    b.HasKey("OdjelId");
-
-                    b.HasIndex("InfoBolniceId");
-
-                    b.ToTable("Odjel");
-                });
-
-            modelBuilder.Entity("HospitalisOOAD.Models.Pacijent", b =>
-                {
-                    b.Property<int>("PacijentId")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("KorisnikId");
-
-                    b.Property<string>("adresaPrebivalista");
-
-                    b.Property<DateTime>("datumRodjenja");
-
-                    b.Property<string>("drzavaRodjenja");
-
-                    b.Property<string>("gradRodjenja");
-
-                    b.Property<string>("jmbg");
-
-                    b.HasKey("PacijentId");
-
-                    b.ToTable("Pacijent");
-                });
-
             modelBuilder.Entity("HospitalisOOAD.Models.Pregled", b =>
                 {
-                    b.Property<int>("PregledId")
+                    b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("DoktorId");
-
                     b.Property<int>("KorisnikId");
 
-                    b.Property<int>("PacijentId");
+                    b.Property<string>("ime");
+
+                    b.Property<string>("prezime");
 
                     b.Property<DateTime>("termin");
 
-                    b.HasKey("PregledId");
+                    b.Property<string>("zauzet");
+
+                    b.HasKey("ID");
 
                     b.HasIndex("KorisnikId");
 
                     b.ToTable("Pregled");
                 });
 
+            modelBuilder.Entity("HospitalisOOAD.Models.Izvjestaj", b =>
+                {
+                    b.HasBaseType("HospitalisOOAD.Models.Dokumentacija");
+
+                    b.Property<string>("rezultatPregleda")
+                        .IsRequired();
+
+                    b.ToTable("Izvjestaj");
+
+                    b.HasDiscriminator().HasValue("Izvjestaj");
+                });
+
             modelBuilder.Entity("HospitalisOOAD.Models.Recept", b =>
                 {
-                    b.Property<int>("ReceptId")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                    b.HasBaseType("HospitalisOOAD.Models.Dokumentacija");
 
-                    b.Property<int>("DokumentacijaId");
-
-                    b.Property<string>("nazivLijeka");
-
-                    b.HasKey("ReceptId");
+                    b.Property<string>("nazivLijeka")
+                        .IsRequired();
 
                     b.ToTable("Recept");
+
+                    b.HasDiscriminator().HasValue("Recept");
                 });
 
             modelBuilder.Entity("HospitalisOOAD.Models.Uputnica", b =>
                 {
-                    b.Property<int>("UputnicaId")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                    b.HasBaseType("HospitalisOOAD.Models.Dokumentacija");
 
-                    b.Property<int>("DokumentacijaId");
+                    b.Property<string>("odrediste")
+                        .IsRequired();
 
-                    b.Property<string>("odrediste");
-
-                    b.Property<string>("svrha");
-
-                    b.HasKey("UputnicaId");
+                    b.Property<string>("svrha")
+                        .IsRequired();
 
                     b.ToTable("Uputnica");
+
+                    b.HasDiscriminator().HasValue("Uputnica");
                 });
 
             modelBuilder.Entity("HospitalisOOAD.Models.Doktor", b =>
                 {
-                    b.HasOne("HospitalisOOAD.Models.Odjel", "Odjel")
-                        .WithMany()
-                        .HasForeignKey("OdjelId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                    b.HasBaseType("HospitalisOOAD.Models.Korisnik");
+
+                    b.Property<string>("Odjel")
+                        .IsRequired();
+
+                    b.Property<string>("verKod")
+                        .IsRequired();
+
+                    b.ToTable("Doktor");
+
+                    b.HasDiscriminator().HasValue("Doktor");
+                });
+
+            modelBuilder.Entity("HospitalisOOAD.Models.Pacijent", b =>
+                {
+                    b.HasBaseType("HospitalisOOAD.Models.Korisnik");
+
+                    b.Property<string>("adresaPrebivalista")
+                        .IsRequired();
+
+                    b.Property<DateTime>("datumRodjenja");
+
+                    b.Property<string>("drzavaRodjenja")
+                        .IsRequired();
+
+                    b.Property<string>("gradRodjenja")
+                        .IsRequired();
+
+                    b.Property<string>("jmbg")
+                        .IsRequired();
+
+                    b.ToTable("Pacijent");
+
+                    b.HasDiscriminator().HasValue("Pacijent");
                 });
 
             modelBuilder.Entity("HospitalisOOAD.Models.Dokumentacija", b =>
                 {
-                    b.HasOne("HospitalisOOAD.Models.Pregled", "Pregled")
+                    b.HasOne("HospitalisOOAD.Models.Korisnik", "Korisnik")
                         .WithMany()
-                        .HasForeignKey("PregledId")
-                        .OnDelete(DeleteBehavior.Cascade);
-                });
-
-            modelBuilder.Entity("HospitalisOOAD.Models.Odjel", b =>
-                {
-                    b.HasOne("HospitalisOOAD.Models.InfoBolnice", "InfoBolnice")
-                        .WithMany()
-                        .HasForeignKey("InfoBolniceId")
+                        .HasForeignKey("KorisnikId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 

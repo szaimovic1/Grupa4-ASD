@@ -3,16 +3,20 @@
 @{
     ViewData["Title"] = "Edit";
 }
+@{
+    Layout = "_Layout3";
+}
 
-<h2>Edit</h2>
 
-<h4>Obavjestenje</h4>
+<h2 style="height: 30px;"></h2>
+
+<h4>Obavještenje</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="ObavjestenjeId" />
+            <input type="hidden" asp-for="ID" />
             <div class="form-group">
                 <label asp-for="tekst" class="control-label"></label>
                 <input asp-for="tekst" class="form-control" />
@@ -31,9 +35,6 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Povratak u listu</a>
 </div>
 
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}

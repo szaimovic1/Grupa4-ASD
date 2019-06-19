@@ -3,12 +3,15 @@
 @{
     ViewData["Title"] = "Delete";
 }
+@{
+    Layout = "_Layout2";
+}
 
-<h2>Delete</h2>
+<h2 style="height: 30px;"></h2>
 
-<h3>Are you sure you want to delete this?</h3>
+<h3>Jeste li sigurni da želite obrisati?</h3>
 <div>
-    <h4>Izvjestaj</h4>
+    <h4>Izvještaj</h4>
     <hr />
     <dl class="dl-horizontal">
         <dt>
@@ -18,16 +21,22 @@
             @Html.DisplayFor(model => model.rezultatPregleda)
         </dd>
         <dt>
-            @Html.DisplayNameFor(model => model.DokumentacijaId)
+            @Html.DisplayNameFor(model => model.datumIzdavanja)
         </dt>
         <dd>
-            @Html.DisplayFor(model => model.DokumentacijaId)
+            @Html.DisplayFor(model => model.datumIzdavanja)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Korisnik)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Korisnik.ID)                      <!--diskriminator-->
         </dd>
     </dl>
-    
+
     <form asp-action="Delete">
-        <input type="hidden" asp-for="IzvjestajId" />
-        <input type="submit" value="Delete" class="btn btn-default" /> |
-        <a asp-action="Index">Back to List</a>
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Brisanje" class="btn btn-default" /> |
+        <a asp-action="Index">Povratak u listu</a>
     </form>
 </div>

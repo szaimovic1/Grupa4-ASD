@@ -19,9 +19,15 @@ namespace HospitalisOOAD.Controllers
         }
 
         // GET: InfoBolnices
-        public async Task<IActionResult> Index()
+        public ActionResult Index()
         {
-            return View(await _context.infoB.ToListAsync());
+            List<Anketa> ankete = _context.ankete.ToList();
+            double ocjena = 0;
+            foreach (Anketa a in ankete)
+                ocjena += a.konacnaOcjena;
+            ocjena /= ankete.Count();
+            ViewBag.Message = ocjena.ToString();
+            return View();
         }
 
         // GET: InfoBolnices/Details/5
@@ -33,7 +39,7 @@ namespace HospitalisOOAD.Controllers
             }
 
             var infoBolnice = await _context.infoB
-                .FirstOrDefaultAsync(m => m.InfoBolniceId == id);
+                .FirstOrDefaultAsync(m => m.ID == id);
             if (infoBolnice == null)
             {
                 return NotFound();
@@ -53,7 +59,7 @@ namespace HospitalisOOAD.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("InfoBolniceId")] InfoBolnice infoBolnice)
+        public async Task<IActionResult> Create([Bind("ID,opis")] InfoBolnice infoBolnice)
         {
             if (ModelState.IsValid)
             {
@@ -85,9 +91,9 @@ namespace HospitalisOOAD.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("InfoBolniceId")] InfoBolnice infoBolnice)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,opis")] InfoBolnice infoBolnice)
         {
-            if (id != infoBolnice.InfoBolniceId)
+            if (id != infoBolnice.ID)
             {
                 return NotFound();
             }
@@ -101,7 +107,7 @@ namespace HospitalisOOAD.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!InfoBolniceExists(infoBolnice.InfoBolniceId))
+                    if (!InfoBolniceExists(infoBolnice.ID))
                     {
                         return NotFound();
                     }
@@ -124,7 +130,7 @@ namespace HospitalisOOAD.Controllers
             }
 
             var infoBolnice = await _context.infoB
-                .FirstOrDefaultAsync(m => m.InfoBolniceId == id);
+                .FirstOrDefaultAsync(m => m.ID == id);
             if (infoBolnice == null)
             {
                 return NotFound();
@@ -146,7 +152,7 @@ namespace HospitalisOOAD.Controllers
 
         private bool InfoBolniceExists(int id)
         {
-            return _context.infoB.Any(e => e.InfoBolniceId == id);
+            return _context.infoB.Any(e => e.ID == id);
         }
     }
 }

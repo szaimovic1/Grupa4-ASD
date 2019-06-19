@@ -34,7 +34,6 @@ namespace HospitalisOOAD
             });
             services.AddDbContext<HospitalisContext>(options => options.UseSqlServer(Configuration.GetConnectionString("AzureConnection")));
 
-
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
