@@ -34,9 +34,7 @@
   
   •	Admin je zadužen za regulisanje kreiranih naloga.
   
-  •	Dokumentaciju koju doktor napiše u e-formi, admin je dužan postaviti na naloge pripadne pacijentima.
-  
-  •	Pacijent može provjeravati svoju historiju pregleda.
+  •	U slučaju otkazivanja pregleda, doktor je dužan napisati obavještenje pacijentima.
   
   
 ### Funkcionalnosti:
@@ -60,8 +58,8 @@
   
 ### Akteri:
 
-  •	Pacijent – osoba koja može potražiti informacije o ustanovi, kreirati nalog te zakazati pregled, ocjenjivati usluge i pregledati svu dokumentaciju vezanu za svoje preglede.
+  •	Pacijent – osoba koja može potražiti informacije o ustanovi, kreirati nalog te zakazati pregled, ocjenjivati usluge i čitati obavještenja.
   
-  •	Doktor – osoba koja mora imati kreiran nalog, kreira termine pregleda, izdaje izvještaje o pregledu, eventualno uputnice i recepte.
+  •	Doktor – osoba koja mora imati kreiran nalog, kreira termine pregleda, izdaje izvještaje o pregledu, eventualno uputnice i recepte, te izdaje obavještenja.
   
   •	Admin – osoba koja ažurira podatke, održava bazu podataka i reguliše prava pristupa.
