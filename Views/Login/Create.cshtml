@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Untitled 1</title>
+    <link href="~/css/style2.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+        div.editText {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: small;
+            font-weight: bold;
+            background-position: center;
+            background-color: #4ac5ce
+        }
+    </style>
+
+</head>
+
+<body style="top: 10%; position:absolute;">
+    @if (ViewBag.Message != null)
+    {
+        <h2 style="background-color: #000000; font-size: medium;">
+            @ViewBag.Message
+        </h2>
+    }
+<center>
+    <div class="containerRegistracija">
+        <div class="editText" align="center" style="width: 364px; height: 165px;">
+            <p style="font-weight: bold;">Login</p>
+            @using (Html.BeginForm("Create", "Login"))
+            {
+                <label class="control-label">Korisničko ime</label>
+                <input name="user" class="form-control" />
+                <label class="control-label">Šifra</label>
+                <input type="password" name="sifra" class="form-control" />
+                <input style="background-color: #4ac5ce;" type="submit" value="Uloguj se" class="btn btn-default" />
+            }
+        </div>
+    </div>
+    <div class="form-group">
+    </div>
+</center>
+
+
+</body>
+
+</html>
+
+

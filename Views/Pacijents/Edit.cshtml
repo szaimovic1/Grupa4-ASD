@@ -1,0 +1,86 @@
+﻿@model HospitalisOOAD.Models.Pacijent
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Pacijent</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="jmbg" class="control-label"></label>
+                <input asp-for="jmbg" class="form-control" />
+                <span asp-validation-for="jmbg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="datumRodjenja" class="control-label"></label>
+                <input asp-for="datumRodjenja" class="form-control" />
+                <span asp-validation-for="datumRodjenja" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="adresaPrebivalista" class="control-label"></label>
+                <input asp-for="adresaPrebivalista" class="form-control" />
+                <span asp-validation-for="adresaPrebivalista" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="gradRodjenja" class="control-label"></label>
+                <input asp-for="gradRodjenja" class="form-control" />
+                <span asp-validation-for="gradRodjenja" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="drzavaRodjenja" class="control-label"></label>
+                <input asp-for="drzavaRodjenja" class="form-control" />
+                <span asp-validation-for="drzavaRodjenja" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="ID" />
+            <div class="form-group">
+                <label asp-for="ime" class="control-label"></label>
+                <input asp-for="ime" class="form-control" />
+                <span asp-validation-for="ime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="prezime" class="control-label"></label>
+                <input asp-for="prezime" class="form-control" />
+                <span asp-validation-for="prezime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="kontaktTelefon" class="control-label"></label>
+                <input asp-for="kontaktTelefon" class="form-control" />
+                <span asp-validation-for="kontaktTelefon" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="username" class="control-label"></label>
+                <input asp-for="username" class="form-control" />
+                <span asp-validation-for="username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="passwordHash" class="control-label"></label>
+                <input asp-for="passwordHash" class="form-control" />
+                <span asp-validation-for="passwordHash" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="spol" class="control-label"></label>
+                <input asp-for="spol" class="form-control" />
+                <span asp-validation-for="spol" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

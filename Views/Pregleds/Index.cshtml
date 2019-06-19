@@ -1,0 +1,66 @@
+﻿@model IEnumerable<HospitalisOOAD.Models.Pregled>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@{
+    Layout = "_Layout3";
+}
+
+
+<h2 style="height: 30px;"></h2>
+
+<h4 align="center" style="background-color: #4ac5ce; font-size: xx-large;">PREGLEDI</h4>
+
+@using (Html.BeginForm("Index", "Pregleds", FormMethod.Get))
+{
+    <div>
+        <text>Ime doktora:</text>
+        @Html.TextBox("search")
+
+        <input type="submit" value="Pretraga" />
+    </div>
+
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.termin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.zauzet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.prezime)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.termin)
+                </td>
+                <td style="background-color: orange">
+                    @Html.DisplayFor(modelItem => item.zauzet)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.prezime)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Uređivanje</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

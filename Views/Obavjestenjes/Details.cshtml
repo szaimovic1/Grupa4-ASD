@@ -1,0 +1,33 @@
+﻿@model HospitalisOOAD.Models.Obavjestenje
+
+@{
+    ViewData["Title"] = "Details";
+}
+@{
+    Layout = "_Layout3";
+}
+
+
+<h2 style="height: 30px;"></h2>
+
+<div>
+    <h4>Obavještenje</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tekst)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.tekst)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.vrijemeObjave)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.vrijemeObjave)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Povratak u listu</a>
+</div>

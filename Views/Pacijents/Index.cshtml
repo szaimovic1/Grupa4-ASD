@@ -1,0 +1,89 @@
+﻿@model IEnumerable<HospitalisOOAD.Models.Pacijent>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@{
+    Layout = "_Layout2";
+}
+<h2 style="height: 30px;"></h2>
+
+<h4 align="center" style="background-color: #4ac5ce; font-size: xx-large;">PACIJENTI</h4>
+
+@using (Html.BeginForm("Index", "Pacijents", FormMethod.Get))
+{
+    <div>
+        <text>Ime pacijenta:</text>
+        @Html.TextBox("search")
+
+        <input type="submit" value="Pretraga" />
+    </div>
+
+}
+
+<h2 style="height: 30px;"></h2>
+
+<h4 align="center" style="background-color: #4ac5ce; font-size: xx-large;">PACIJENTI</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.prezime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.username)
+            </th>
+            <td>
+                @Html.DisplayNameFor(model => model.ID)
+            </td>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.datumRodjenja)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.adresaPrebivalista)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.spol)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.prezime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.datumRodjenja)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.adresaPrebivalista)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.spol)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

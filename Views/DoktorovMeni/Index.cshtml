@@ -1,0 +1,127 @@
+﻿@{
+    ViewData["Title"] = "DoktorovMeni";
+}
+@{
+    Layout = "_Layout2";
+}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <!-- #BeginEditable "doctitle" -->
+    <title></title>
+    <!-- #EndEditable -->
+    <link href="~/css/style1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+    <style type="text/css">
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: x-large;
+            font-style: italic;
+            text-transform: uppercase;
+            color: #4ac5ce;
+            text-decoration: underline;
+        }
+
+        p {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+            font-weight: bold;
+            font-style: normal;
+            color: #000000;
+            background-color: gainsboro;
+        }
+
+        a {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: small;
+            font-weight: bold;
+            color: #4ac5ce;
+        }
+
+        h2 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+            font-weight: bold;
+            color: #4ac5ce;
+            text-transform: uppercase;
+        }
+
+        li {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: small;
+            color: #000000;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Begin Container -->
+    <div id="container" style="height: 570px; width: 645px;">
+        <!-- Begin Masthead -->
+        <div id="masthead" style="height: 50px">
+            <br />
+            <br />
+        </div>
+        <!-- End Masthead -->
+        <!-- Begin Page Content -->
+        <div id="page_content">
+            <!-- Begin Sidebar -->
+            <div id="sidebar" style="left: 7px; top: 0px; width: 118px; height: 410px;" class="auto-style2">
+                <ul>
+                    <li></li>
+                    <li><a href="~/Izvjestajs/Create">Izvještaj</a></li>
+                    <li><a href="~/Recepts/Create">Recept</a></li>
+                    <li><a href="~/Uputnicas/Create">Uputnica</a></li>
+                    <li><a href="~/Obavjestenjes/Create">Obavještenja</a></li>
+                </ul>
+                <a></a>
+                <img src="~/images/znakh.png" alt="" style="width: 100%; " />
+            </div>
+            <!-- End Sidebar -->
+            <!-- Begin Content -->
+            <div id="content" style="left: -10px; top: 5px; height: 400px; width: 469px;">
+                <!-- #BeginEditable "content" -->
+                <h1 align="center">&nbsp;dokumentacija</h1>
+
+                <h2>Izvještaji</h2>
+                <ul>
+                    <li><a href="~/Izvjestajs/Index">Ovdje možete pogledati spisak izvještaja</a></li>
+                </ul>
+                <h2>Uputnice</h2>
+                <ul>
+                    <li><a href="~/Uputnicas/Index">Ovdje možete pogledati spisak uputnica</a></li>
+                </ul>
+                <h2 href="~/Recepts/Index">Recepti</h2>
+                <ul>
+                    <li><a href="~/Recepts/Index">Ovdje možete pogledati spisak recepata</a></li>
+                </ul>
+                <center>
+                    <p style="height: 20px;"></p>
+                    <a align="center" style="background-color: gainsboro;" href="~/Pregleds/Index">Ukoliko želite otkazati termin pregleda, kliknite ovdje!</a>
+                    <p align="center">Molimo Vas da ne zaboravite pacijente obavijestiti o promjenama termina!</p>
+                </center>
+
+                <br />
+                <!-- #EndEditable -->
+            </div>
+            <!-- End Content -->
+        </div>
+        <!-- End Page Content -->
+        <!-- Begin Footer -->
+
+        <div id="footer" style="height: 58px">
+        </div>
+        <!-- End Footer -->
+    </div>
+    <!-- End Container -->
+
+</body>
+
+</html>
+
+
+
+

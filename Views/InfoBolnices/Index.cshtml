@@ -1,0 +1,31 @@
+﻿@model IEnumerable<HospitalisOOAD.Models.InfoBolnice>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    Layout = "_Layout";
+}
+
+
+<img src="~/images/header1.jpg" alt="" style="top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    z-index: 1;" />
+
+<h4 align="center" style="font-size: xx-large; position:absolute; z-index:2; top:100px;">INFORMACIJE</h4>
+<text style="position:absolute; z-index:2; top:200px;">
+    Svakim radnim danom naši doktori su Vam na raspolaganju! <br />
+    Zakažite pregled u željenom terminu. Na raspolaganju su Vam: <br />
+    Hirurgija: dr. Sara Zaimović (e-mail: sarazaimovic@gmail.com); <br />
+    Kardiologija: dr. Ajša Hajradinović (e-mail: ajsahaj@gmail.com); <br />
+    Ortopedija: dr. Dženan Bašić (email: dbasalic1@etf.unsa.ba);
+    Ortopedija: dr. Kerim Hodžić (email: khodzic2@etf.unsa.ba)<br />
+    Urologija: dr. Almir Zulum (email: almirzulum@gmail.com).<br /><br />
+    Za sve probleme ili pitanja možete nam se obratiti na mail: hospitalis.0043@gmail.com! <br /><br />
+    Ocjena koju su naši klijenti dali, shodno uslugama koje pružamo, je: @ViewBag.Message
+</text>
+
+

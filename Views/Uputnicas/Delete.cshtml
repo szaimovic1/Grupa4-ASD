@@ -1,0 +1,48 @@
+﻿@model HospitalisOOAD.Models.Uputnica
+
+@{
+    ViewData["Title"] = "Delete";
+}
+@{
+    Layout = "_Layout2";
+}
+
+<h2 style="height: 30px;"></h2>
+
+<h3>Jeste li sigurni da želite brisati?</h3>
+<div>
+    <h4>Uputnica</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.svrha)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.svrha)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.odrediste)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.odrediste)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.datumIzdavanja)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.datumIzdavanja)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Korisnik)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Korisnik)          <!--diskriminator-->
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Obriši" class="btn btn-default" /> |
+        <a asp-action="Index">Povratak u listu</a>
+    </form>
+</div>

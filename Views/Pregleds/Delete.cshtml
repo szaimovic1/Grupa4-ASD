@@ -1,0 +1,40 @@
+﻿@model HospitalisOOAD.Models.Pregled
+
+@{
+    ViewData["Title"] = "Delete";
+}
+@{
+    Layout = "_Layout3";
+}
+
+
+<h2 style="height: 30px;"></h2>
+
+<h3>Jeste li sigurni da želite obrisati?</h3>
+<div>
+    <h4>Pregled</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.termin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.termin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.zauzet)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ime)
+        </dd>
+        <dd>
+            @Html.DisplayFor(model => model.prezime)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Povratak u listu</a>
+    </form>
+</div>

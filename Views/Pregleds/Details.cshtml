@@ -1,0 +1,45 @@
+﻿@model HospitalisOOAD.Models.Pregled
+
+@{
+    ViewData["Title"] = "Details";
+}
+@{
+    Layout = "_Layout3";
+}
+
+
+<h2 style="height: 30px;"></h2>
+
+<div>
+    <h4>Pregled</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.termin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.termin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.zauzet)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.zauzet)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.prezime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.prezime)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Povratak u listu</a>
+</div>

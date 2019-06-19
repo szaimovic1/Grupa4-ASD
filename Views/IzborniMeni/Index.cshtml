@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewData["Title"] = "IzborniMeni";
+}
+@{
+    Layout = "_Layout1";
+}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <!-- #BeginEditable "doctitle" -->
+    <title></title>
+    <!-- #EndEditable -->
+    <link href="~/css/style1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+    <style type="text/css">
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: x-large;
+            font-style: italic;
+            text-transform: uppercase;
+            color: #4ac5ce;
+            text-decoration: underline;
+        }
+
+        p {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: small;
+            font-weight: bold;
+            font-style: normal;
+            color: #000000;
+            background-color: #fff;
+        }
+
+        a {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: small;
+            font-weight: bold;
+            color: #4ac5ce;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <!-- Begin Container -->
+    <div id="container" style="height: 478px; width: 645px;">
+        <!-- Begin Masthead -->
+        <div id="masthead" style="height: 50px">
+            <br />
+            <br />
+        </div>
+        <!-- End Masthead -->
+        <!-- Begin Page Content -->
+        <div id="page_content">
+            <!-- Begin Sidebar -->
+            <div id="sidebar" style="left: 7px; top: 0px; width: 118px; height: 350px;" class="auto-style2" align="center">
+                <ul>
+                    <li></li>
+                    <li><a href="~/Anketas/Create">Anketa</a></li>
+                    <li><a href="~/Obavjestenjes/Index">Obavještenja</a></li>
+                </ul>
+                <a></a>
+                <img src="~/images/znakh.png" alt="" style="width: 100%; " />
+            </div>
+            <!-- End Sidebar -->
+            <!-- Begin Content -->
+            <div id="content" style="left: -10px; top: 5px; height: 340px; width: 450px;" align="center">
+                <!-- #BeginEditable "content" -->
+                <h1 align="center">&nbsp;izborni meni</h1>
+                <p align="center">&nbsp;</p>
+                <p align="center">Želite obaviti pregled?</p>
+                
+                <p align="center">
+                    <input name="Button1" type="button" value="Zakažite pregled" onclick="@("window.location.href='" + @Url.Action("index", "Pregleds") + "'");" /><form method="post"></form>
+                </p>
+                <br />
+                <!-- #EndEditable -->
+            </div>
+            <!-- End Content -->
+        </div>
+        <!-- End Page Content -->
+        <!-- Begin Footer -->
+        <div id="footer" style="height: 58px">
+        </div>
+        <!-- End Footer -->
+    </div>
+    <!-- End Container -->
+
+</body>
+
+</html>
+

@@ -1,0 +1,54 @@
+﻿@model HospitalisOOAD.Models.Uputnica
+
+@{
+    ViewData["Title"] = "Create";
+}
+@{
+    Layout = "_Layout2";
+}
+
+
+<h2 style="height: 30px;"></h2>
+
+<h4 align="center" style="background-color: #4ac5ce; font-size: xx-large;">UPUTNICA</h4>
+<hr />
+<div align="center" class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div style="background-color:#4ac5ce;" class="form-group">
+                <label asp-for="svrha" class="control-label"></label>
+                <input asp-for="svrha" class="form-control" />
+                <span asp-validation-for="svrha" class="text-danger"></span>
+            </div>
+            <div style="background-color:#4ac5ce;" class="form-group">
+                <label asp-for="odrediste" class="control-label"></label>
+                <input asp-for="odrediste" class="form-control" />
+                <span asp-validation-for="odrediste" class="text-danger"></span>
+            </div>
+            <div style="background-color:#4ac5ce;" class="form-group">
+                <label asp-for="datumIzdavanja" class="control-label"></label>
+                <input asp-for="datumIzdavanja" class="form-control" />
+                <span asp-validation-for="datumIzdavanja" class="text-danger"></span>
+            </div>
+            <div style="background-color:#4ac5ce;" class="form-group">
+                <label asp-for="Odjel" class="control-label"></label>
+                <select asp-for="Odjel" class="form-control"><option>Urologija</option><option>Hirurgija</option><option>Kardiologija</option><option>Ortopedija</option></select>
+            </div>
+            <div style="background-color:#4ac5ce;" class="form-group">
+                <label asp-for="KorisnikId" class="control-label"></label>
+                <select asp-for="KorisnikId" class="form-control"
+                        asp-items="@(new SelectList(ViewBag.lista,"ID", "fullname"))"></select>
+            </div>
+            <div class="form-group">
+                <input style="background-color:#4ac5ce;" type="submit" value="Kreiraj" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a style="background-color: #000000;" href="~/Pacijents/Index">Lista pacijenata</a>
+</div>
+
+
+

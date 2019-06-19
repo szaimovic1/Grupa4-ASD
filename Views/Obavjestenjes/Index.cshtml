@@ -1,0 +1,40 @@
+﻿@model IEnumerable<HospitalisOOAD.Models.Obavjestenje>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    Layout = "_Layout3";
+}
+
+
+<h2 style="height: 30px;"></h2>
+
+<h4 align="center" style="background-color: #4ac5ce; font-size: xx-large;">OBAVJEŠTENJA</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tekst)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.vrijemeObjave)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tekst)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.vrijemeObjave)
+                </td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+</table>

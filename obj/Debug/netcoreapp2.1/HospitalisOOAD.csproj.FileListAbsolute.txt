@@ -1,0 +1,888 @@
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\source\repos\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\hospitalis\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\RegistracijaPacijenta\index.g.cshtml.cs
+C:\Users\HP\Desktop\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestaj\index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestaj\index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\RegistracijaPacijenta\index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\RegistracijaDoktora\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\ooad\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\saraz\Desktop\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\saraz\Desktop\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\saraz\Desktop\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\saraz\Desktop\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\saraz\Desktop\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\saraz\Desktop\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\HP\Downloads\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\HP\Downloads\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\HP\Downloads\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\HP\Downloads\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\HP\Downloads\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestaj\index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\RegistracijaDoktora\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\RegistracijaPacijenta\index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\HP\Downloads\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout1.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestaj\index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\RegistracijaDoktora\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\RegistracijaPacijenta\index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout1.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+D:\MATERIJALI\2\4\OOAD\projekat\Web\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout1.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\DoktorovMeni\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Odjels\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Odjels\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Odjels\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Odjels\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Odjels\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\DoktorovMeni\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout1.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\Web (3)\Web\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\DoktorovMeni\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout1.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+D:\MATERIJALI\2\4\OOAD\projekat\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\DoktorovMeni\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout1.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\HospitalisOOAD\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\DoktorovMeni\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Create.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Delete.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Details.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Edit.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Index.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout1.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\SendEmail.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout2.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout3.g.cshtml.cs
+C:\Users\saraz\Desktop\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.deps.json
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.json
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.runtimeconfig.dev.json
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.dll
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\bin\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.AssemblyInfo.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.input.cache
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.TagHelpers.output.cache
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorCoreGenerate.cache
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Anketas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\DoktorovMeni\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Doktors\SendEmail.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Dokumentacijas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\InfoBolnices\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\IzborniMeni\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Izvjestajs\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Korisniks\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Obavjestenjes\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pacijents\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Pregleds\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Recepts\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout1.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout2.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout3.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Create.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Delete.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Details.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Edit.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\Uputnicas\Index.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.Views.pdb
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.dll
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.pdb
+C:\Users\HP\Downloads\HospitalisOOAD (4)\HospitalisOOAD\obj\Debug\netcoreapp2.1\HospitalisOOAD.csproj.CopyComplete

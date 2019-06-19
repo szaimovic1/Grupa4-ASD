@@ -1,0 +1,26 @@
+﻿@model IEnumerable<HospitalisOOAD.Models.Anketa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    Layout = "_Layout1";
+}
+
+<table style="top: 30px;" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.konacnaOcjena)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>
+                    @ViewBag.Message
+                </td>
+            </tr>
+    </tbody>
+</table>
