@@ -22,15 +22,11 @@ Link: http://hospitalis.azurewebsites.net/
 ### Procesi: 
 
   •	Korisnik može potražiti željene informacije o strukturi osoblja. 
-  
   •	Korisnik kreira nalog: unosi lične podatke (ime, prezime, username, password, spol, datum rođenja, kontakt-telefon), zatim bira željeni odjel, doktora i neki od termina za pregled. Ubuduće, za zakazivanje pregleda koristi se postojećim nalogom.
   
   •	Doktor, također, treba imati kreiran nalog.
-  
   •	Doktor je zadužen za validaciju termina, koje korisnici biraju, u skladu sa svojim obavezama.
-  
   •	Pri obavljanju pregleda, doktor je dužan napisati izvještaj o pregledu. U slučaju uspostavljanja određene dijagnoze, u skladu sa njom, propisati recept ili uputnicu. 
-  
   •	Pacijent ima mogućnost da ocijeni usluge osoblja, kao i cjelokupni tretman.
   
   •	Admin je zadužen za regulisanje kreiranih naloga.
